@@ -46,3 +46,12 @@ kare_fonksiyonu <- function(x,y) {
 }
 
 kare_fonksiyonu(4,3)
+
+
+
+ucgen_kenarlari_topla <- function(q,w,e) {
+  
+  q+w+e
+}
+
+ucgen_kenarlari_topla(2,3,4)
